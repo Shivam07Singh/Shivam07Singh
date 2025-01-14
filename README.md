@@ -9,6 +9,7 @@
 - 💬 Ask me about **HTML, CSS, React**
 
 - 📫 How to reach me **shivamsingh735r@gmail.com**
+- 📫 How to reach me **[shivamsingh735r@gmail.com](https://shivamsingh-portfolio.netlify.app)**
 
 - ⚡ Fun fact **Quick Learner, Good Communication**
 
