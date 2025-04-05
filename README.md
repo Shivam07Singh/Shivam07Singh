@@ -9,9 +9,9 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **shivamsingh735r@gmail.com**
-- 📫 How to reach me **https://shivamsingh-portfolio.netlify.app/**
+- 📫 How to reach me **[Shivam_Singh_Portfolio](https://shivamsingh-portfolio.netlify.app/)**
 
-- ⚡ Fun fact **Quick Learner, Good Communication**
+- 📄 Know about my experiences [Shivam_Singh_resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67f0c6680e9e2245f735ad78)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
